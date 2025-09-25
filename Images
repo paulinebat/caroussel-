@@ -1,1 +1,6 @@
-git commit images
+mkdir -p mon_dossier/sous_dossier
+touch images/sous_dossier/fichier.txt
+git add .
+git commit -m "images"
+git push
+
